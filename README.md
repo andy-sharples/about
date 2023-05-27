@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andy-sharples
 - 👀 I’m interested in ...programming, cybersec
-- 🌱 I’m currently learning ...Python, Java, SQL, C++
+- 🌱 I’m currently learning ...Python, Java, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
